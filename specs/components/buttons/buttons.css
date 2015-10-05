@@ -1,0 +1,29 @@
+/* variables */
+
+/**
+  * @name Default
+  *
+  * @state :hover - Hover state
+  * @state .button-pro_big - Bigger version
+  *
+  * @markup
+  *  <button class="Btn">Default</button>
+  <button class="Btn Btn-primary">Primary</button>
+  <button class="Btn Btn-danger">Danger</button>
+  */
+
+.Btn {
+    background: red;
+}
+.button-pro.button-pro_big {}
+
+/**
+  * @name Disabled
+  *
+  * @state .button-pro_big - Bigger disabled version
+  *
+  * @markup
+  *   <button class="button-pro button-pro_disabled">Clicky</button>
+  */
+
+.button-pro.button-pro_disabled {}

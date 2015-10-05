@@ -4,6 +4,9 @@ module.exports = {
     // Restart the app after changing core (back-end) options
     // Core options could be only redefined from user/options.js, context options are not supported
     core: {
+        watch: {
+            enabled: true
+        }
     },
 
     // Page rendering configuration (redefinable from context options)
