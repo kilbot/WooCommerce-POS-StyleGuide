@@ -7,7 +7,7 @@ module.exports = {
   core: {
     server: {
       port: port,
-      hostname: 'styleguide.woopos.com.au'
+      hostname: undefined
     },
   },
 
