@@ -5,7 +5,8 @@ module.exports = {
   // Core options could be only redefined from user/options.js, context options are not supported
   core: {
     server: {
-      port: (process.env.PORT || 8080)
+      port: (process.env.PORT || 8080),
+      hostname: 'styleguide.woopos.com.au'
     },
   },
 
