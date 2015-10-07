@@ -1,11 +1,12 @@
 // User options for overriding core options.js
+var port = (process.env.PORT || 8080);
 
 module.exports = {
   // Restart the app after changing core (back-end) options
   // Core options could be only redefined from user/options.js, context options are not supported
   core: {
     server: {
-      port: (process.env.PORT || 8080),
+      port: port,
       hostname: 'styleguide.woopos.com.au'
     },
   },
