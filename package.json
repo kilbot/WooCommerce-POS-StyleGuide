@@ -10,7 +10,7 @@
     "node": ">=0.10.0 <4.0"
   },
   "dependencies": {
-    "sourcejs": "^0.5.6-no-jsdom",
+    "sourcejs": "sourcejs/Source#0.6.0-dev",
     "sourcejs-contrib-dss": "^0.1.0"
   }
 }
