@@ -1,0 +1,6 @@
+{
+  "title": "Buttons Spec",
+  "template": "doc",
+  "specDirPath": "../assets/css/src/scss/partials",
+  "specFiles": "_buttons.scss"
+}

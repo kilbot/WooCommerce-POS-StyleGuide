@@ -7,10 +7,7 @@
     "start": "node ./node_modules/sourcejs/app.js"
   },
   "dependencies": {
-    "sourcejs": "kilbot/Source#0.6.0-dev",
-    "sourcejs-contrib-dss": "^0.1.0"
-  },
-  "engines": {
-    "node": "0.12.7"
+    "sourcejs": "sourcejs/Source#0.6.0-dev",
+    "sourcejs-contrib-dss": "kilbot/sourcejs-contrib-dss"
   }
 }
