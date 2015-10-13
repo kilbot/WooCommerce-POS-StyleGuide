@@ -1,0 +1,6 @@
+{
+  "title": "Input Group Spec",
+  "template": "doc",
+  "specDirPath": "../assets/css/src/scss/partials",
+  "specFiles": "_input-group.scss"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "CSS Fade Animations Spec",
+  "template": "doc",
+  "specDirPath": "../assets/css/src/scss/partials",
+  "specFiles": "_css-fade-animations.scss"
+}

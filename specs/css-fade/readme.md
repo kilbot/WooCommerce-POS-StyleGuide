@@ -1,0 +1,1 @@
+Useful for js error messages, ie: if js doesn't load view after 10 seconds show an error message.

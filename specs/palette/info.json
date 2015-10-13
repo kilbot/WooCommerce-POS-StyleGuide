@@ -1,0 +1,6 @@
+{
+  "title": "Color Palette",
+  "template": "doc",
+  "specDirPath": "../assets/css/src/scss/partials",
+  "specFiles": "_palette.scss"
+}
