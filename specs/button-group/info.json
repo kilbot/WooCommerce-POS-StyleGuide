@@ -1,0 +1,6 @@
+{
+  "title": "Button Group Spec",
+  "template": "doc",
+  "specDirPath": "../assets/css/src/scss/partials",
+  "specFiles": "_button-group.scss"
+}

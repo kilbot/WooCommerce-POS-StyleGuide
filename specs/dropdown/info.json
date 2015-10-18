@@ -1,0 +1,6 @@
+{
+  "title": "Dropdown Spec",
+  "template": "doc",
+  "specDirPath": "../assets/css/src/scss/partials",
+  "specFiles": "_dropdown.scss"
+}

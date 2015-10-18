@@ -1,0 +1,6 @@
+{
+  "title": "Main Page Spec",
+  "template": "doc",
+  "specDirPath": "../assets/css/src/scss/partials",
+  "specFiles": "_main.scss"
+}

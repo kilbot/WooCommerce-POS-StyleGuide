@@ -1,0 +1,6 @@
+{
+  "title": "List Spec",
+  "template": "doc",
+  "specDirPath": "../assets/css/src/scss/partials",
+  "specFiles": "_list.scss"
+}

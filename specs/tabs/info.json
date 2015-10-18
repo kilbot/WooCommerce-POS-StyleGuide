@@ -1,0 +1,6 @@
+{
+  "title": "Tabs Spec",
+  "template": "doc",
+  "specDirPath": "../assets/css/src/scss/partials",
+  "specFiles": "_tabs.scss"
+}
