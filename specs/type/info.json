@@ -1,0 +1,6 @@
+{
+  "title": "Type Spec",
+  "template": "doc",
+  "specDirPath": "../assets/css/src/scss/partials",
+  "specFiles": "_type.scss"
+}
