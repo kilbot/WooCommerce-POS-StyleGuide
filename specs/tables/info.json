@@ -1,0 +1,6 @@
+{
+  "title": "Table Spec",
+  "template": "doc",
+  "specDirPath": "../assets/css/src/scss/partials",
+  "specFiles": "_tables.scss"
+}
