@@ -1,0 +1,6 @@
+{
+  "title": "Variations Popover Spec",
+  "template": "doc",
+  "specDirPath": "../assets/css/src/scss/partials/popover",
+  "specFiles": "_variations.scss"
+}
