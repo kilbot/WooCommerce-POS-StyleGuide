@@ -1,13 +1,9 @@
 // User options for overriding core options.js
-var port = (process.env.PORT || 8080);
 
 module.exports = {
   // Restart the app after changing core (back-end) options
   // Core options could be only redefined from user/options.js, context options are not supported
   core: {
-    server: {
-      port: port
-    },
   },
 
   // Page rendering configuration (redefinable from context options)
@@ -23,10 +19,10 @@ module.exports = {
     modulesOptions : {
       // Modules options example
       // navHighlight: {
-      //   updateHash: false
+      //     updateHash: false
       // }
     },
-    
+
     // Legacy options object support for some older plugins
     pluginsOptions: {}
   },
