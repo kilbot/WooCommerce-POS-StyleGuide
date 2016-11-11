@@ -1,1 +1,0 @@
-web: node ./node_modules/sourcejs/app.js
