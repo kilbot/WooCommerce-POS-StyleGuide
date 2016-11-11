@@ -7,7 +7,7 @@
     "start": "node ./node_modules/sourcejs/app.js"
   },
   "dependencies": {
-    "sourcejs": "sourcejs/Source#0.6.0-dev",
+    "sourcejs": "sourcejs/Source#0.6.0-nightly.6",
     "sourcejs-contrib-dss": "kilbot/sourcejs-contrib-dss"
   }
 }
